@@ -26,6 +26,7 @@
 
 <script>
 import PxIcon from '@/components/PxIcon'
+import '../assets/css/tailwind.css'
 
 export default {
   name: 'PxHeader',
